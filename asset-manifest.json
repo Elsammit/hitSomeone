@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60caeae5.chunk.css",
+    "main.js": "/static/js/main.bd7b77ca.chunk.js",
+    "main.js.map": "/static/js/main.bd7b77ca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd056108.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd056108.js.map",
+    "static/js/2.6a949da5.chunk.js": "/static/js/2.6a949da5.chunk.js",
+    "static/js/2.6a949da5.chunk.js.map": "/static/js/2.6a949da5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9f756dd58af6ca30e937f9d0da4eaad0.js": "/precache-manifest.9f756dd58af6ca30e937f9d0da4eaad0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.60caeae5.chunk.css.map": "/static/css/main.60caeae5.chunk.css.map",
+    "static/js/2.6a949da5.chunk.js.LICENSE.txt": "/static/js/2.6a949da5.chunk.js.LICENSE.txt",
+    "static/media/cave_Left.png": "/static/media/cave_Left.df69fdf1.png",
+    "static/media/cave_Right.png": "/static/media/cave_Right.3f9c1415.png",
+    "static/media/inu.png": "/static/media/inu.23873709.png",
+    "static/media/waniwani.css": "/static/media/mogura.2d17e91f.png",
+    "static/media/saru.png": "/static/media/saru.58f37357.png",
+    "static/media/wani.png": "/static/media/wani.ead25118.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd056108.js",
+    "static/js/2.6a949da5.chunk.js",
+    "static/css/main.60caeae5.chunk.css",
+    "static/js/main.bd7b77ca.chunk.js"
+  ]
+}
